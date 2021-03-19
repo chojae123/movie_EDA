@@ -14,8 +14,8 @@ jupyternotebook 실행
 ```
 ### 사용데이터
 - 영화진흥위원회 api
-- 왓챠피디아
-- 네이버영화
+- [왓챠피디아](https://pedia.watcha.com/ko-KR/)
+- [네이버영화](https://movie.naver.com/)
 
 ### 사용 라이브러리
 - pandas
