@@ -6,9 +6,10 @@
 ### project 설명
 세계적인 영화제 수상작과 우리나라 boxoffice 흥행작 Top10의 특징을 분석, 그 상관관계를 비교하여 시각화 
 
+<p>
  <image scr=https://github.com/chojae123/movie_EDA/blob/main/data/img/img1.png width="500" height="300">
  <image scr=https://github.com/chojae123/movie_EDA/blob/main/data/img/img2.png width="500" height="300">
-
+<p/>
 
 ### 실행
 ```
